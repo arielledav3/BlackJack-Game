@@ -1,0 +1,26 @@
+Welcome to BlackJack Basic Edition!!!
+
+We have a couple rules you need to follow while playing this game:
+1. No Hacking The Game!
+2. You objective is to get your number to 21 or close to 21.
+3. Which ever player is closest to 21, without going over, wins!
+4. If you go over 21 you automatically lose :(
+6. Once you get your cards you will type HIT or STAY
+  -Hit means get another card.
+  -Stay means you do not want another card you want to see what the dealer has.
+5. Have fun!
+
+The cards all have a value attached to them:
+1 = Ace
+2 = hearts, clubs, or spades
+3 = hearts, clubs, or spades
+4 = hearts, clubs, or spades
+5 = hearts, clubs, or spades
+6 = hearts, clubs, or spades
+7 = hearts, clubs, or spades
+8 = hearts, clubs, or spades
+9 = hearts, clubs, or spades
+10 = hearts, clubs, spades, King, Queen, or Jack
+11 = Ace
+
+Remember, calculate carefully, play with wisdom, and lastly have fun!
